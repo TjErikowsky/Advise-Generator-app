@@ -50,6 +50,6 @@ const fetchAdvice = async () => {
 
 ## Author
 
-- Website - [Add your name here](https://www.renemx.com)
-- Twitter - [@yourusername](https://www.twitter.com/renemx__)
+- Website - [renemx](https://www.renemx.com)
+- Twitter - [@renemx__](https://www.twitter.com/renemx__)
 
