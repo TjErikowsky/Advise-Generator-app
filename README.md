@@ -17,8 +17,8 @@ This is my first integration API project. This is the beginning of something gre
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/TjErikowsky/Advise-Generator-app.git)
-- Live Site URL: [Add live site URL here](https://renemx.com)
+- Solution URL: [Solution code](https://github.com/TjErikowsky/Advise-Generator-app.git)
+- Live Site URL: [Renemx.com](https://renemx.com)
 
 ## My process
 - First of all, I created the container in html archive. I was playing with the colors, width and heights.
